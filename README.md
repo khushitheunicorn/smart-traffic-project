@@ -1,3 +1,7 @@
+AI-Powered Traffic Monitoring and Event Processing Platform is a modular full-stack system that processes traffic video streams to detect vehicles, identify license plates, perform OCR, and generate structured traffic events. The platform exposes the detection pipeline through FastAPI services and produces analytics-ready outputs for dashboards, monitoring, and future cloud deployment.
+
+
+
 **🚗 Automatic Number Plate Recognition (ANPR) Pipeline**
 
 A modular video-based ANPR system that detects vehicles, tracks them across frames, extracts license plates, performs OCR, and stores results in CSV and JSON formats.
